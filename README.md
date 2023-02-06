@@ -1,11 +1,17 @@
 ### Hi there 👋
 # 🏄‍♂️ Pierrot
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Digital Craftsman (Developer)`**
 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
 ---
+
+<div align=center>
+  <h2>BragdonD - Thomas DUCLOS</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=bragdonD&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_border=true&theme=dark" width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragdonD&count_private=true&layout=compact&langs_count=6&hide_border=true&theme=dark" width=50%/>
+</div>
 
 ### 🧰 Languages and Tools
 
