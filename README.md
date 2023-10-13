@@ -9,8 +9,8 @@ All coding projects are built from the ground up, from planning and designing al
 
 <div align=center>
   <h2>Pierre-Olivier ROUX-SAVELLI</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pierre-Eau&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_border=true&theme=dark" width=50%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Eau&count_private=true&layout=compact&langs_count=6&hide_border=true&theme=dark" width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piereau&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_border=true&theme=dark" width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piereau&count_private=true&layout=compact&langs_count=6&hide_border=true&theme=dark" width=50%/>
 </div>
 
 ### 🧰 Languages and Tools
