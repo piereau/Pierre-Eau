@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
